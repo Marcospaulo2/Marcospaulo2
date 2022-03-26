@@ -1,5 +1,5 @@
 
-# Olá, Me chamo marcos paulo 👋
+# Olá, Me chamo Marcos Paulo 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcospaulo2&show_icons=true&theme=dracula)
